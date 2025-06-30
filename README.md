@@ -1,20 +1,24 @@
-# 👋 Hi there! I'm Saranya  
-### 💻 First-Year CSE Student | Passionate Programmer | Tech Explorer  
+# 👋 Hi there! I'm SARANYA A.V
+
+🎓 First-year B.E. CSE student   
+💻 Passionate about programming and web development  
+🔧 Skilled in C and Python, currently learning full-stack development  
+
+---
+
+## 🌟 About Me
+I'm an enthusiastic learner who loves solving problems and building real-world applications.  
+My goal is to become a skilled software developer and contribute to open-source projects.  
+I'm excited to learn, grow, and collaborate with developers around the world. 🚀
 
 ---
 
 ## 🌱 Currently Learning
-- C & Python fundamentals 🐍
-- HTML, CSS, and JavaScript for Web Dev 🌐
-- Git and GitHub for version control 🔧
+- Full Stack Web Development (Frontend + Backend)
+- Git & GitHub
+- Data Structures and Algorithms
 
 ---
 
-
-## 📫 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saranya-venkatasubramani-aa8453317/)  
-- 📬 Email: vensaranya2007@gmail.com
-
----
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House# sara_20
